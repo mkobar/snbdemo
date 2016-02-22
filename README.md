@@ -22,10 +22,15 @@ Unfortunately I could not get my app to workk with BlueMix and Cloud-foundry but
 ##Resources
 
 ### BlueMix and Ionic
+
 http://www.raymondcamden.com/2015/07/20/saucedb-building-the-back-end-with-ibm-bluemix/
+
 http://www.raymondcamden.com/2015/10/27/nodeschool-for-ibm-bluemix-and-node-js/
+
 http://heidloff.net/article/deploying-apis-built-via-nodejs-to-ibm-bluemix
+
 https://strongloop.com/strongblog/part-1-ionic-loopback-node-js-mobile/
+
 https://dzone.com/articles/ionic-hybrid-mobile-app-using-mobilefirst-platform
 
 ## License
