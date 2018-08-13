@@ -19,7 +19,7 @@ This mobile application was built with the sweet [Ionic Framework](http://ionicf
 ### Status
 Unfortunately I could not get my app to workk with BlueMix and Cloud-foundry but checked in the code to demonstrate my progress.
 
-##Resources
+## Resources
 
 ### BlueMix and Ionic
 
