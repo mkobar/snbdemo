@@ -1,6 +1,6 @@
 # snbdemo
 
-##Social Networks for Buildings (SNB) Web App with BlueMix
+## Social Networks for Buildings (SNB) Web App with BlueMix
 
 [![License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://github.com/mkobar/snbdemo/blob/master/LICENSE)
 
@@ -35,5 +35,6 @@ https://dzone.com/articles/ionic-hybrid-mobile-app-using-mobilefirst-platform
 
 ## License
 
-Released under the [MIT License] (http://opensource.org/licenses/MIT)
-Copyright @ 2016 [RKOSecurity] (http://www.rkosecurity.com)
+Released under the [MIT License](http://opensource.org/licenses/MIT)
+
+Copyright @ 2016 [RKOSecurity](http://www.rkosecurity.com)
